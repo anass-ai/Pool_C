@@ -52,10 +52,10 @@ Projet éducatif sous la supervision du FISTO Club IT FSO.
 
 ## 👤 Vos Contact
 
-- **NOM COMPLET**: ...
-- **AGE**: ...
-- **Discord ID**: ...
-- **Établissement**: ...
+- **NOM COMPLET**: anass chaib
+- **AGE**: 18
+- **Discord ID**: .anass._.
+- **Établissement**: uni mohammed premier oujda fso 
 
 ---
 
